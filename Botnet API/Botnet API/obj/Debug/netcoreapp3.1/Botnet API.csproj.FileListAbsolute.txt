@@ -1,0 +1,10 @@
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\bin\Debug\netcoreapp3.1\Botnet API.deps.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\bin\Debug\netcoreapp3.1\Botnet API.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\bin\Debug\netcoreapp3.1\Botnet API.pdb
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.AssemblyInfo.cs
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\Botnet API\Botnet API\obj\Debug\netcoreapp3.1\Botnet API.pdb

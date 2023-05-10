@@ -1,0 +1,14 @@
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.exe
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.deps.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.runtimeconfig.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.runtimeconfig.dev.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\bin\Release\netcoreapp3.1\BotnetController.pdb
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.AssemblyInfo.cs
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.pdb
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotnetController\obj\Release\netcoreapp3.1\BotnetController.genruntimeconfig.cache

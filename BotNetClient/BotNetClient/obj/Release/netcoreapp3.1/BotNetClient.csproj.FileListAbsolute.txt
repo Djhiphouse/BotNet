@@ -1,0 +1,14 @@
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.AssemblyInfo.cs
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.exe
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.deps.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.runtimeconfig.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.runtimeconfig.dev.json
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\bin\Release\netcoreapp3.1\BotNetClient.pdb
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.dll
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.pdb
+C:\Users\fride\source\repos\GitHub Projekts\BotNet\BotNetClient\BotNetClient\obj\Release\netcoreapp3.1\BotNetClient.genruntimeconfig.cache
